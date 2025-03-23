@@ -16,13 +16,7 @@ NexWallet is a cutting-edge platform that combines blockchain technology with ar
 - **Frontend**:
   - **React Components**: Reusable UI components for a seamless user experience.
 
-## Main changes done in SEND AI
- 
- - SolanaAgentKit now includes a callback mechanism.
-     <img width="629" alt="Screenshot 2025-01-23 at 15 21 08" src="https://github.com/user-attachments/assets/ed8d88d2-4525-4e8f-afe5-b8e5b30fd2b3" />
- 
- - Private keys are no longer mandatory; public keys can also be used. When using a public key, the UI mode variable must be set to true.
-     <img width="480" alt="Screenshot 2025-01-23 at 15 21 14" src="https://github.com/user-attachments/assets/dba0a627-f5dd-4da8-a161-929b26764a96" />
+
 # NexWallet Deployment Guide
 
 This guide explains how to set up and deploy the NexWallet application using GitHub Actions and a self-hosted runner.
